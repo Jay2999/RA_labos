@@ -1,0 +1,9 @@
+*
+!*/
+
+!/.git*
+!/*.uproject
+!/Source/**
+!/Config/**
+!/Plugins/**
+!/Content/**
